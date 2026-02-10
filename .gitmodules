@@ -1,0 +1,3 @@
+[submodule "acpi_call"]
+	path = acpi_call
+	url = git@github.com:nix-community/acpi_call.git
